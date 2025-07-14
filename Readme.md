@@ -101,6 +101,16 @@ javascript:(function () {
 - The results will show the status of each endpoint, categorized into 200 OK, other error statuses, and fetch/network errors.
 - Ensure you have permission to test the endpoints on the page, as this script will make network requests.
 - This script is intended for educational and testing purposes only. Use responsibly and ethically.
-```
+``
+## whats new comming 
+- Improved error handling for network requests.
+- Enhanced UI for better readability.
+- Added filtering options to view specific status codes.
+- Support for more complex URL patterns.
+- api endpoints extraction from dynamically loaded scripts.
+- 403 Forbidden or other non-200 responses will be highlighted in orange, while fetch errors will be shown in red.
+
 ### Disclaimer
 This script is provided for educational purposes only. Use it responsibly and ensure you have permission to test the endpoints on the page. Unauthorized testing may violate terms of service or legal regulations.
+
+##
